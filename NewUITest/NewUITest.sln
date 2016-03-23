@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewUITest", "NewUITest\NewUITest.vcxproj", "{5AADB03C-059B-4337-AD78-6B35182A9B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugUnicode|Win32 = DebugUnicode|Win32
+		Release|Win32 = Release|Win32
+		ReleaseNo|Win32 = ReleaseNo|Win32
+		ReleaseUnicode|Win32 = ReleaseUnicode|Win32
+		ReleaseUnicodeNo|Win32 = ReleaseUnicodeNo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.Debug|Win32.Build.0 = Debug|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.DebugUnicode|Win32.ActiveCfg = Debug|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.DebugUnicode|Win32.Build.0 = Debug|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.Release|Win32.ActiveCfg = Release|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.Release|Win32.Build.0 = Release|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.ReleaseNo|Win32.ActiveCfg = Release|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.ReleaseNo|Win32.Build.0 = Release|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.ReleaseUnicode|Win32.ActiveCfg = Release|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.ReleaseUnicode|Win32.Build.0 = Release|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.ReleaseUnicodeNo|Win32.ActiveCfg = ReleaseUnicodeNo|Win32
+		{5AADB03C-059B-4337-AD78-6B35182A9B1D}.ReleaseUnicodeNo|Win32.Build.0 = ReleaseUnicodeNo|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
